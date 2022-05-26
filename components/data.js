@@ -1,18 +1,12 @@
-
 const personListDJ = [{
-  name: 'Дмитрий Баклашов',
-  link: './images/Дмитрий Баклашов.jpg',
-  town: 'Воронеж'
+  name: 'Ольга Телешева',
+  link: './images/Ольга Телешева.jpg',
+  town: 'Москва'
 },
   {
-    name: 'Екатерина Виноградова',
-    link: './images/Екатерина Виноградова.jpg',
-    town: 'Москва'
-  },
-  {
-    name: 'Алина Шатковская',
-    link: './images/Алина Шатковская.jpg',
-    town: 'Москва'
+    name: 'Алексей Соколовский',
+    link: './images/Алексей соколовский.jpg',
+    town: 'Dusseldorf'
   },
   {
     name: 'Daniel Tuero',
@@ -20,115 +14,79 @@ const personListDJ = [{
     town: 'Buenos Aires/Москва'
   },
   {
-    name: 'Hernán Brus',
-    link: './images/Hernán Brusa.jpg',
-    town: 'Buenos-Aires/Санкт-Петербург'
+    name: 'Ольга Агапова',
+    link: './images/Ольга Агапова.jpg',
+    town: 'Санкт-Петербург'
   },
   {
-    name: 'Виктор Шевченко',
-    link: './images/Виктор Шевченко.jpg',
-    town: 'Вологда'
+    name: 'Екатерина Семёнова',
+    link: './images/Екатерина Семёнова.jpg',
+    town: 'Казань'
   },
   {
-    name: 'Ирина Кострома',
-    link: './images/Ира Кострома.jpg',
-    town: 'Псков'
+    name: 'Дмитрий Баклашов',
+    link: './images/Дмитрий Баклашов.jpg',
+    town: 'Воронеж'
+  },
+  {
+    name: 'Анатолий Шипилов',
+    link: './images/Анатолий Шипилов.jpg',
+    town: 'Ростов-на-Дону'
   }
 ]
 
-const personListBy = [{
-  name: 'Виталий Аверченко',
-  link: './images/Виталий Аверченко.jpg',
-  town: 'Минск'
+const personListIt = [{
+  name: 'Ivo Bertino',
+  link: './images/Ivo Bertino.jpg',
+  town: 'Torino'
 },
   {
-    name: 'Наталья Аверченко',
-    link: './images/Наталья Аверченко.jpg',
-    town: 'Минск'
-  },
-  {
-    name: 'Ольга Войтович',
-    link: './images/Ольга Войтович.JPG',
-    town: 'Минск'
-  },
-  {
-    name: 'Марина Иванова',
-    link: './images/Марина Иванова.jpg',
-    town: 'Минск'
-  },
-  {
-    name: 'Екатерина Ясовеева',
-    link: './images/Екатерина Ясовеева.jpg',
-    town: 'Минск'
-  },
+    name: 'Eleonardo Navicella',
+    link: './images/Eleonardo Navicella.jpg',
+    town: 'Torino'
+  }
+]
+
+const personListSr = [{
+  name: 'Filip Erčić',
+  link: './images/Filip Ercic.jpg',
+  town: 'Beograde'
+}
+]
+
+const personListLaLi = [{
+  name: 'Марина Зинович',
+  link: './images/Марина Зинович.jpg',
+  town: 'Вильнюс'
+}
+]
+
+const personListBy = [{
+  name: 'Олег Полушкин',
+  link: './images/Олег Полушкин.jpg',
+  town: 'Минск'
+},
   {
     name: 'Ирина Ястребкова',
     link: './images/Ирина Ястребкова.jpg',
     town: 'Минск'
   }
 ]
-
-const personListGr = [{
-  name: 'Cornelia Heinrichs',
-  link: './images/Cornelia H.jpg',
-  town: 'Dortmund'
-},
-  {
-    name: 'Алексей Соколовский',
-    link: './images/Алексей соколовский.jpg',
-    town: 'Dusseldorf'
-  }
+const personListBg = [{
+  name: '',
+  link: './images/.jpg',
+}
 ]
 
-const personListFr = [{
-  name: 'Михаил Кинер',
-  link: './images/Михаил Кинер.jpg',
-  town: 'Eaubonne'
-},
-  {
-    name: 'Надежда Лазутина Зверева',
-    link: './images/Надежда Лазутина.jpeg',
-    town: 'Paris'
-  },
-  {
-    name: 'Елена Цфасман',
-    link: './images/Елена Цфасман.jpg',
-    town: 'Paris'
-  }
+const personListVl = [{
+  name: 'Игорь Лукьянов',
+  link: './images/Игорь Лукьянов.jpg',
+}
 ]
 
-const personListUSA = [{
-  name: 'Аркадий Борковский',
-  link: './images/Аркадий Борковский.jpg',
-  town: 'Palo Alto'
-},
-  {
-    name: 'Валерий Кухтиев',
-    link: './images/Валерий Кухтиев.jpg',
-    town: 'Orlando'
-  },
-  {
-    name: 'Jamie Roberts',
-    link: './images/Jamie Roberts.jpg',
-    town: 'Denver'
-  }
-]
-
-const personListLaLi = [{
-  name: 'Карина Довбуш',
-  link: './images/Карина Довбуш.jpg',
-  town: 'Рига'
-},
-  {
-    name: 'Марина Зинович',
-    link: './images/Марина Зинович.jpg',
-    town: 'Вильнюс'
-  },
-]
-
-let personListVg = [{
-  name: 'Наталья Шевченко',
-  link: './images/Наташа Шевченко.jpg',
+const personListVm = [{
+  name: '',
+  link: './images/.jpg',
 }
 ]
 
@@ -137,12 +95,24 @@ const personListVr = [{
   link: './images/Евгений Аникеев.jpg',
 },
   {
-    name: 'Светлана Баклашова',
-    link: './images/Светлана Баклашова.jpg',
+    name: '',
+    link: './images/.jpg',
+  },
+  {
+    name: 'Ольга Журавлева',
+    link: './images/Ольга Журавлева.jpg',
   },
   {
     name: 'Вероника Ключанская',
     link: './images/Вероника Ключанская.jpg',
+  },
+  {
+    name: '',
+    link: './images/.jpg',
+  },
+  {
+    name: '',
+    link: './images/.jpg',
   }
 ]
 
@@ -156,9 +126,27 @@ const personListEk = [{
   }
 ]
 
+const personListIj = [{
+  name: '',
+  link: './images/.jpg',
+}
+]
+
+const personListIr = [{
+  name: '',
+  link: './images/.jpg',
+}
+]
+
 const personListKz = [{
   name: 'Ирина Крючкова',
   link: './images/Ирина Крючкова.jpg',
+}
+]
+
+const personListKg = [{
+  name: '',
+  link: './images/.jpg',
 }
 ]
 
@@ -170,12 +158,6 @@ const personListKr = [{
     name: 'Галина Данилович',
     link: './images/Галина Данилович.jpg',
   }
-]
-
-const personListMis = [{
-  name: 'Юрий Дюков',
-  link: './images/Юрий Дюков.jpg',
-}
 ]
 
 const personListMo = [{
@@ -376,12 +358,6 @@ const personListNn = [{
   }
 ]
 
-const personListOh = [{
-  name: 'Григорий Касьян',
-  link: './images/Григорий Косьян.jpg',
-}
-]
-
 const personListPk = [{
   name: 'Евгений Вялых',
   link: './images/Евгений Вялых.jpeg',
@@ -427,13 +403,11 @@ const personListPs = [{
   {
     name: 'Алексей Шпак',
     link: './images/Алексей Шпак.jpg',
+  },
+  {
+    name: 'Ирина Кострома',
+    link: './images/Ира Кострома.jpg'
   }
-]
-
-const personListRd = [{
-  name: 'Валентин Боваров',
-  link: './images/Валентин Баваров.jpg',
-}
 ]
 
 const personListRz = [{
@@ -454,12 +428,6 @@ const personListRz = [{
   }
 ]
 
-const personListSam = [{
-  name: 'Дарья Жулькова',
-  link: './images/Дарья Жулькова.jpeg',
-}
-]
-
 const personListSch = [{
   name: 'Иван Якушев',
   link: './images/Иван Якушев.jpg',
@@ -468,36 +436,36 @@ const personListSch = [{
 
 const personListTv = [{
   name: 'Андрей Колобов',
-  link: './images/Андрейц Колобов.jpg',
-},
-  {
-    name: 'Анна Мазухина',
-    link: './images/Анна Мазухина.jpg',
-  }
+  link: './images/Андрей Колобов.jpg',
+}
 ]
 
-const personListChb = [{
-  name: 'Светлана Сергеева(Захарова)',
-  link: './images/Светлана сергеева.jpg',
+const personListTo = [{
+  name: '',
+  link: './images/.jpg',
+}
+]
+
+const personListTm = [{
+  name: '',
+  link: './images/.jpg',
 }
 ]
 
 const personListChe = [{
-  name: 'Олеся Максимова',
-  link: './images/Олеся Максимова.jpg',
-},
-  {
     name: 'Владимир Поляков',
     link: './images/Владимир Поляков.jpg',
   },
   {
     name: 'Светлана Полякова',
     link: './images/Светлана Полякова.jpg',
-  },
-  {
-    name: 'Светлана Дворник',
-    link: './images/Светлана Дворник.jpg',
   }
+]
+
+const personListYar = [{
+  name: '',
+  link: './images/.jpg',
+}
 ]
 
 const personListSp = [{
@@ -730,11 +698,11 @@ const personListSp = [{
   },
   {
     name: 'Аля Цой',
-    link: './images/Ала цой.jpg',
+    link: './images/Аля Цой.jpg',
   },
   {
-    name: 'Александр цой',
-    link: './images/Александр цой.jpg',
+    name: 'Александр Цой',
+    link: './images/Александр Цой.jpg',
   }
 ]
 
@@ -743,28 +711,32 @@ const allData = [{
   list: '.list_dj',
 },
   {
-    personList: personListBy,
-    list: '.list_by',
+    personList: personListIt,
+    list: '.list_it',
   },
   {
-    personList: personListGr,
-    list: '.list_gr',
-  },
-  {
-    personList: personListFr,
-    list: '.list_fr',
-  },
-  {
-    personList: personListUSA,
-    list: '.list_usa',
+    personList: personListSr,
+    list: '.list_sr',
   },
   {
     personList: personListLaLi,
     list: '.list_laLi',
   },
   {
-    personList: personListVg,
-    list: '.list_vg',
+    personList: personListBy,
+    list: '.list_by',
+  },
+  {
+    personList: personListBg,
+    list: '.list_bg',
+  },
+  {
+    personList: personListVl,
+    list: '.list_vl',
+  },
+  {
+    personList: personListVm,
+    list: '.list_vm',
   },
   {
     personList: personListVr,
@@ -775,16 +747,24 @@ const allData = [{
     list: '.list_ek',
   },
   {
+    personList: personListIj,
+    list: '.list_ij',
+  },
+  {
+    personList: personListIr,
+    list: '.list_ir',
+  },
+  {
     personList: personListKz,
     list: '.list_kz',
   },
   {
-    personList: personListKr,
-    list: '.list_kr',
+    personList: personListKg,
+    list: '.list_kg',
   },
   {
-    personList: personListMis,
-    list: '.list_mis',
+    personList: personListKr,
+    list: '.list_kr',
   },
   {
     personList: personListMo,
@@ -799,10 +779,6 @@ const allData = [{
     list: '.list_nn',
   },
   {
-    personList: personListOh,
-    list: '.list_oh',
-  },
-  {
     personList: personListPk,
     list: '.list_pk',
   },
@@ -811,16 +787,8 @@ const allData = [{
     list: '.list_ps',
   },
   {
-    personList: personListRd,
-    list: '.list_rd',
-  },
-  {
     personList: personListRz,
     list: '.list_rz',
-  },
-  {
-    personList: personListSam,
-    list: '.list_sam',
   },
   {
     personList: personListSch,
@@ -831,12 +799,20 @@ const allData = [{
     list: '.list_tv',
   },
   {
-    personList: personListChb,
-    list: '.list_chb',
+    personList: personListTo,
+    list: '.list_to',
+  },
+  {
+    personList: personListTm,
+    list: '.list_tm',
   },
   {
     personList: personListChe,
     list: '.list_che',
+  },
+  {
+    personList: personListYar,
+    list: '.list_yar',
   },
   {
     personList: personListSp,
@@ -845,5 +821,4 @@ const allData = [{
 ]
 
 
-
-export {allData, personListVg};
+export {allData};
