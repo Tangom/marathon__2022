@@ -72,21 +72,10 @@ const personListBy = [{
     town: 'Минск'
   }
 ]
-const personListBg = [{
-  name: '',
-  link: './images/.jpg',
-}
-]
 
 const personListVl = [{
   name: 'Игорь Лукьянов',
   link: './images/Игорь Лукьянов.jpg',
-}
-]
-
-const personListVm = [{
-  name: '',
-  link: './images/.jpg',
 }
 ]
 
@@ -95,8 +84,8 @@ const personListVr = [{
   link: './images/Евгений Аникеев.jpg',
 },
   {
-    name: '',
-    link: './images/.jpg',
+    name: 'Игорь Аристов',
+    link: './images/Игорь Аристов.jpg',
   },
   {
     name: 'Ольга Журавлева',
@@ -107,46 +96,42 @@ const personListVr = [{
     link: './images/Вероника Ключанская.jpg',
   },
   {
-    name: '',
-    link: './images/.jpg',
+    name: 'Елена Сафонова',
+    link: './images/Елена Сафонова.jpg',
   },
   {
-    name: '',
-    link: './images/.jpg',
+    name: 'Дмитрий Хоменко',
+    link: './images/Дмитрий Хоменко.jpg',
+  },
+  {
+    name: 'Александра Чернова',
+    link: './images/Александра Чернова.jpg',
   }
 ]
 
 const personListEk = [{
-  name: 'Елена Баженова',
-  link: './images/Елена Баженова.jpg',
+  name: 'Александр Мезянкин',
+  link: './images/Александр Мезянкин.jpg',
 },
   {
-    name: 'Илья Егоров',
-    link: './images/Илья Егоров.jpg',
+    name: 'Эльвира Рожкова',
+    link: './images/Эльвира Рожкова.jpg',
   }
 ]
 
-const personListIj = [{
-  name: '',
-  link: './images/.jpg',
-}
-]
-
 const personListIr = [{
-  name: '',
-  link: './images/.jpg',
-}
+  name: 'Елена Родичева',
+  link: './images/Елена Родичева.jpg',
+},
+  {
+    name: 'Сергей Свистунов',
+    link: './images/Сергей Свистунов.jpg',
+  }
 ]
 
 const personListKz = [{
-  name: 'Ирина Крючкова',
-  link: './images/Ирина Крючкова.jpg',
-}
-]
-
-const personListKg = [{
-  name: '',
-  link: './images/.jpg',
+  name: 'Валерий Ильин',
+  link: './images/Валерий Ильин.jpg',
 }
 ]
 
@@ -161,36 +146,24 @@ const personListKr = [{
 ]
 
 const personListMo = [{
-  name: 'Мария Андрианова',
-  link: './images/Мария Адрианова.jpg',
+  name: 'Александр Болотов',
+  link: './images/Александр Болотов.jpg',
 },
-  {
-    name: 'Игорь Антонов',
-    link: './images/Игорь Антонов.png',
-  },
-  {
-    name: 'Петр Богов',
-    link: './images/Петр Богов.jpg',
-  },
   {
     name: 'Татьяна Боярова',
     link: './images/Татьяна Боярова.jpg',
   },
   {
-    name: 'Сергей Быстров',
-    link: './images/Сергей Быстров.jpg',
+    name: 'Анна Вернова',
+    link: './images/Анна Вернова.jpg',
   },
   {
-    name: 'Анна Быстрова',
-    link: './images/Анна Быстрова.jpg',
+    name: 'Наталья Власова',
+    link: './images/Наталья Власова.jpg',
   },
   {
-    name: 'Александр Выборнов',
-    link: './images/Александр Выборнов.jpg',
-  },
-  {
-    name: 'Лина Гиза',
-    link: './images/Лина Гиза.jpg',
+    name: 'Татьяна Гараева',
+    link: './images/Татьяна Гараева.jpg',
   },
   {
     name: 'Галина Глушко',
@@ -205,28 +178,8 @@ const personListMo = [{
     link: './images/Юлия Дагиль.jpg',
   },
   {
-    name: 'Юлия Датура-Чапораль',
-    link: './images/Юлия Датура Чапараль.jpg',
-  },
-  {
-    name: 'Алексей Дульцев',
-    link: './images/Алексей Дульцев.png',
-  },
-  {
-    name: 'Александр Загребайлов',
-    link: './images/Александр Загребайлов.jpg',
-  },
-  {
-    name: 'Ирина Загребайлова',
-    link: './images/Ирина Загребайлова.jpg',
-  },
-  {
-    name: 'Елена Аргона Иванова',
-    link: './images/Елена Аргона Иванова.jpg',
-  },
-  {
-    name: 'Евгений Козюрман',
-    link: './images/Евгений Козюрман.jpg',
+    name: 'Людмила Камелина',
+    link: './images/Людмила Камелина.jpg',
   },
   {
     name: 'Андрей Кравцев',
@@ -234,47 +187,31 @@ const personListMo = [{
   },
   {
     name: 'Юлия Кравцова',
-    link: './images/Юлия Кравцова 2.jpg',
+    link: './images/Юлия Кравцова.jpg',
   },
   {
     name: 'Ирина Крылова',
     link: './images/Ирина Крылова.jpeg',
   },
   {
-    name: 'Сергей Лутченков',
-    link: './images/Сергей Лутченков.jpg',
-  },
-  {
     name: 'Вячеслав Максюта',
     link: './images/Вячеслав Максюта.jpg',
   },
   {
+    name: 'Александр Матросов',
+    link: './images/Александр Матросов.jpg',
+  },
+  {
     name: 'Марина Матросова',
-    link: './images/Некто.jpg',
+    link: './images/Марина Матросова.jpg',
   },
   {
     name: 'Александра Матросова',
     link: './images/Александра Матросова.jpg',
   },
   {
-    name: 'Наталья Молокова',
-    link: './images/Наталья Молокова.jpg',
-  },
-  {
     name: 'Oleg Nice',
     link: './images/Oleg Nice.jpg',
-  },
-  {
-    name: 'Ринат Нигматуллин',
-    link: './images/Ринат Нигматуллин.jpg',
-  },
-  {
-    name: 'Антон Никулин',
-    link: './images/Антон Никулин.jpeg',
-  },
-  {
-    name: 'Наталья Полынкова',
-    link: './images/Наталья Полынкова.jpg',
   },
   {
     name: 'Дарья Помян',
@@ -285,8 +222,8 @@ const personListMo = [{
     link: './images/Игорь Помян.jpg',
   },
   {
-    name: 'Дмитрий Редин',
-    link: './images/Дмитрий Редин.jpg',
+    name: 'Александра Пушкарева',
+    link: './images/Александра Пушкарева.jpg',
   },
   {
     name: 'Марина Румянцева',
@@ -297,20 +234,12 @@ const personListMo = [{
     link: './images/Александр Сергеев.jpg',
   },
   {
-    name: 'Ирина Соколова',
-    link: './images/Ирина Соколова.jpeg',
+    name: 'Татьяна Ширикова',
+    link: './images/Татьяна Ширикова.jpg',
   },
   {
-    name: 'Анна Соловьева',
-    link: './images/Анна Соловьева.jpg',
-  },
-  {
-    name: 'Ирина Сытова',
-    link: './images/Ирина Сытова.jpg',
-  },
-  {
-    name: 'Алексей Тупов',
-    link: './images/Алексей Тупов.jpg',
+    name: 'Юрий Юрьев',
+    link: './images/Юрий Юрьев.jpg',
   }
 ]
 
@@ -319,52 +248,40 @@ const personListMu = [{
   link: './images/Сергей Ещенко.jpg',
 },
   {
+    name: 'Светлана Заика',
+    link: './images/Светлана Заика.jpg',
+  },
+  {
     name: 'Марина Логунова',
     link: './images/Марина Логунова.jpg',
   }
 ]
 
 const personListNn = [{
-  name: 'Алла Котельникова',
-  link: './images/Алла Котельникова.jpg',
+  name: 'Олег Кузнецов',
+  link: './images/Олег Кузнецов.jpg',
 },
-  {
-    name: 'Олег Кузнецов',
-    link: './images/Олег Кузнецов.jpg',
-  },
   {
     name: 'Галина Кузнецова',
     link: './images/Галина Кузнецова.jpg',
   },
   {
-    name: 'Варвара Кулакова',
-    link: './images/Варвара Кулакова.jpg',
+    name: 'Ольга Пичугина',
+    link: './images/Ольга Пичугина.jpg',
   },
   {
-    name: 'Ирина Малюткина(Афина)',
-    link: './images/Ирина Малюткина.jpg',
+    name: 'Анна Чевачина',
+    link: './images/Анна Чевачина.jpg',
   },
-  {
-    name: 'Елена Никифорова',
-    link: './images/Некто.jpg',
-  },
-  {
-    name: 'Анатолий Полтанов',
-    link: './images/Анатолий Полтанов.jpg',
-  },
-  {
-    name: 'Надежда Шилова',
-    link: './images/Надежда Шилова.jpg',
-  }
 ]
 
 const personListPk = [{
   name: 'Евгений Вялых',
-  link: './images/Евгений Вялых.jpeg',
+  link: './images/Евгений Вялых.jpg',
 },
   {
     name: 'Елена Дробышевская',
-    link: './images/Елена Дробышевская.jpeg',
+    link: './images/Елена Дробышевская.jpg',
   }
 ]
 
@@ -381,6 +298,10 @@ const personListPs = [{
     link: './images/Яков Корноухов.jpg',
   },
   {
+    name: 'Ирина Кострома',
+    link: './images/Ира Кострома.jpg'
+  },
+  {
     name: 'Светлана Лозовская',
     link: './images/Светлана Лозовская.jpg',
   },
@@ -394,26 +315,26 @@ const personListPs = [{
   },
   {
     name: 'Алексей Сахаров',
-    link: './images/Алексей Сахаров.png',
+    link: './images/Алексей Сахаров.jpg',
   },
   {
     name: 'Инна Сахарова',
-    link: './images/Инна Сахарова.png',
+    link: './images/Инна Сахарова.jpg',
   },
   {
     name: 'Алексей Шпак',
     link: './images/Алексей Шпак.jpg',
-  },
-  {
-    name: 'Ирина Кострома',
-    link: './images/Ира Кострома.jpg'
   }
 ]
 
 const personListRz = [{
-  name: 'Татьяна Конных',
-  link: './images/Татьяна Конных.jpg',
+  name: 'Леонид Александров',
+  link: './images/Леонид Александров.jpg',
 },
+  {
+    name: 'Арина Ежова',
+    link: './images/Арина Ежова.jpg',
+  },
   {
     name: 'Владимир Муравьёв',
     link: './images/Татьяна Муравьёва.jpg',
@@ -441,21 +362,21 @@ const personListTv = [{
 ]
 
 const personListTo = [{
-  name: '',
-  link: './images/.jpg',
+  name: 'Ольга Мезенцева',
+  link: './images/Ольга Мезенцева.jpg',
 }
 ]
 
 const personListTm = [{
-  name: '',
-  link: './images/.jpg',
+  name: 'Ирина Каримова',
+  link: './images/Ирина Каримова.jpg',
 }
 ]
 
 const personListChe = [{
-    name: 'Владимир Поляков',
-    link: './images/Владимир Поляков.jpg',
-  },
+  name: 'Владимир Поляков',
+  link: './images/Владимир Поляков.jpg',
+},
   {
     name: 'Светлана Полякова',
     link: './images/Светлана Полякова.jpg',
@@ -463,46 +384,46 @@ const personListChe = [{
 ]
 
 const personListYar = [{
-  name: '',
-  link: './images/.jpg',
+  name: 'Ольга Плетнева',
+  link: './images/Ольга Плетнева.jpg',
 }
 ]
 
 const personListSp = [{
-  name: 'Инна Апрельская',
-  link: './images/Инна Апрельская.jpg',
+  name: 'Валерий Абузов',
+  link: './images/Валерий Абузов.jpg',
 },
   {
+    name: 'Алена Абузова',
+    link: './images/Алена Абузова.jpg',
+  },
+  {
+    name: 'Инна Апрельская',
+    link: './images/Инна Апрельская.jpg',
+  },
+  {
     name: 'Татьяна Архипова',
-    link: './images/Архипова Татьяна.jpg',
-  },
-  {
-    name: 'Дарья Бажанова',
-    link: './images/Дарья Бажанова.jpg',
-  },
-  {
-    name: 'Мария Белокурова',
-    link: './images/Мария Белокурова.jpg',
+    link: './images/Татьяна Архипова.jpg',
   },
   {
     name: 'Елена Берестецкая',
     link: './images/Елена Берестецкая.jpg',
   },
   {
-    name: 'Алексей Биорк',
-    link: './images/Алексей Биорк.jpg',
+    name: 'Игорь Близнец',
+    link: './images/Игорь Близнец.jpg',
   },
   {
-    name: 'Игорь Близнец',
-    link: './images/Игорь Близнец.png',
+    name: 'Анастасия Бондарева',
+    link: './images/Анастасия Бондарева.jpg',
   },
   {
     name: 'Владимир Брагин',
     link: './images/Владимир Брагин.jpg',
   },
   {
-    name: 'Мария Брусса',
-    link: './images/Мария Брусса.jpg',
+    name: 'Михаил Бурдик',
+    link: './images/Михаил Бурдик.jpg',
   },
   {
     name: 'Константин Волошенко',
@@ -513,16 +434,16 @@ const personListSp = [{
     link: './images/Олег Голубев.jpg',
   },
   {
-    name: 'Артём Довбуш',
-    link: './images/Артём Довбуш.jpg',
+    name: 'Ольга Григорьева',
+    link: './images/Ольга Григорьева.jpg',
   },
   {
-    name: 'Игорь Дорофеев',
-    link: './images/Некто.jpg',
+    name: 'Владимир Дунаев',
+    link: './images/Владимир Дунаев.jpg',
   },
   {
-    name: 'Наталья Жемеркина',
-    link: './images/Наталья Жемеркина.jpg',
+    name: 'Регина Дунаева',
+    link: './images/Регина Дунаева.jpg',
   },
   {
     name: 'Александр Захаров',
@@ -533,6 +454,10 @@ const personListSp = [{
     link: './images/Лариса Захарова.jpg',
   },
   {
+    name: 'Нина Зубова',
+    link: './images/Нина Зубова.jpg',
+  },
+  {
     name: 'Светлана Зинченко',
     link: './images/Светлана Зинченко.jpg',
   },
@@ -541,40 +466,12 @@ const personListSp = [{
     link: './images/Игорь Иванов.jpg',
   },
   {
-    name: 'Александра Иванова',
-    link: './images/Александра Иванова.jpg',
-  },
-  {
-    name: 'Елена Кадырова',
-    link: './images/елена кадырова.jpg',
-  },
-  {
-    name: 'Дмитрий Корытов',
-    link: './images/Дмитрий Корытов.jpg',
-  },
-  {
-    name: 'Светлана Котляренко',
-    link: './images/Светлана Котляренко.jpg',
+    name: 'Марина Хромова',
+    link: './images/Марина Хромова.jpg',
   },
   {
     name: 'Кирилл Красиков',
     link: './images/Кирилл Красиков.jpg',
-  },
-  {
-    name: 'Роман Лебедев',
-    link: './images/Роман Лебедев.jpg',
-  },
-  {
-    name: 'Анна Лебедева',
-    link: './images/Анна Лебедева.jpg',
-  },
-  {
-    name: 'Наталья Луан',
-    link: './images/Наталья Луан.jpg',
-  },
-  {
-    name: 'Андрей Макаров',
-    link: './images/Андрей Макаров.jpg',
   },
   {
     name: 'Андрей Маноменов',
@@ -585,60 +482,36 @@ const personListSp = [{
     link: './images/Елена Маноменова.jpg',
   },
   {
-    name: 'Артур Мкртчян',
-    link: './images/Артур Мкртчян.jpg',
-  },
-  {
-    name: 'Максим Могиль',
-    link: './images/Максим Могиль.jpg',
+    name: 'Валерия Медведева',
+    link: './images/Валерия Медведева.jpg',
   },
   {
     name: 'Игорь Муравьев',
     link: './images/Игорь Муравьев.jpg',
   },
   {
-    name: 'Татьяна Мыльникова',
-    link: './images/Татьяна Мыльникова.jpg',
-  },
-  {
     name: 'Мария Нейланд',
-    link: './images/Мария Нейланд.png',
-  },
-  {
-    name: 'Ирина Некрасова',
-    link: './images/Ирина Некрасова.jpg',
-  },
-  {
-    name: 'Анна Никитина',
-    link: './images/Некто.jpg',
+    link: './images/Мария Нейланд.jpg',
   },
   {
     name: 'Владимир Огородников',
     link: './images/Владимир Огородников.jpg',
   },
   {
-    name: 'Ксения Оржесковская',
-    link: './images/Ксения Оржесковская.jpeg',
-  },
-  {
     name: 'Александр Павленко',
     link: './images/Александр Павленко.jpg',
   },
   {
-    name: 'Елена Павлишина',
-    link: './images/Елена Павлишина.jpg',
-  },
-  {
-    name: 'Ольга Павлова',
-    link: './images/Ольга Павлова.jpeg',
+    name: 'Александр Пагайлик',
+    link: './images/Александр Пагайлик.jpg',
   },
   {
     name: 'Татьяна Парфилова',
     link: './images/Татьяна Парфилова.jpg',
   },
   {
-    name: 'Александра Писаренко',
-    link: './images/Александра Писаренко.jpg',
+    name: 'Ирина Пастухова',
+    link: './images/Ирина Пастухова.jpg',
   },
   {
     name: 'Денис Подгорный',
@@ -649,52 +522,16 @@ const personListSp = [{
     link: './images/Наталья Подгорная.jpg',
   },
   {
-    name: 'Александр Пономарёв',
-    link: './images/Александр Пономарёв.jpg',
+    name: 'Алексей Пономаренко',
+    link: './images/Алексей Пономаренко.jpg',
   },
   {
     name: 'Андрей Почивалов',
     link: './images/Андрей Почивалов.jpg',
   },
   {
-    name: 'Алексей Рощектаев',
-    link: './images/Алексей Рощектаев.jpg',
-  },
-  {
-    name: 'Михо Саградян',
-    link: './images/михо.jpg',
-  },
-  {
-    name: 'Юля Тарасова',
-    link: './images/Юля Тарасова.jpg',
-  },
-  {
-    name: 'Сергей Туркин',
-    link: './images/Сергей Туркин.jpg',
-  },
-  {
-    name: 'Галина Уварова',
-    link: './images/Галина Уварова.jpg',
-  },
-  {
-    name: 'Анна Ушакова',
-    link: './images/Анна Ушакова.jpeg',
-  },
-  {
-    name: 'Татьяна Федеченкова',
-    link: './images/Татьяна Федеченкова.jpg',
-  },
-  {
-    name: 'Евгения Федорова',
-    link: './images/Некто.jpg',
-  },
-  {
-    name: 'Александр Флеминг',
-    link: './images/Александр Флеминг.jpg',
-  },
-  {
-    name: 'Людмила Худолеева',
-    link: './images/Некто.jpg',
+    name: 'Людмила Ушакова',
+    link: './images/Людмила Ушакова.jpg',
   },
   {
     name: 'Аля Цой',
@@ -703,6 +540,159 @@ const personListSp = [{
   {
     name: 'Александр Цой',
     link: './images/Александр Цой.jpg',
+  }
+]
+
+const personListOrg = [{
+  name: 'Владислав Калугин',
+  link: './images/Владислав Калугин.jpg',
+},
+  {
+    name: 'Елена Слуцкая',
+    link: './images/Елена Слуцкая.jpg',
+  },
+  {
+    name: 'Никита Васильев',
+    link: './images/Никита Васильев.jpg',
+  },
+  {
+    name: 'Ангелина Зубко',
+    link: './images/Ангелина Зубко.jpg',
+  },
+  {
+    name: 'Александр Чигарев',
+    link: './images/Александр Чигарев.jpg',
+  },
+  {
+    name: 'Наталья Ростова',
+    link: './images/Наталья Ростова.jpg',
+  },
+  {
+    name: 'Валентин Боваров',
+    link: './images/Валентин Боваров.jpg',
+  },
+  {
+    name: 'Александр Ряховский',
+    link: './images/Александр Ряховский.jpg',
+  },
+  {
+    name: 'Светлана Роднина',
+    link: './images/Светлана Роднина.jpg',
+  },
+  {
+    name: 'Михаил Федоровский',
+    link: './images/Михаил Федоровский.jpg',
+  },
+  {
+    name: 'Людмила Ершова',
+    link: './images/Людмила Ершова.jpg',
+  },
+  {
+    name: 'Ольга Богданова',
+    link: './images/Ольга Богданова.jpg',
+  },
+  {
+    name: 'Ксения Готвянская',
+    link: './images/Ксения Готвянская.jpg',
+  }
+]
+
+const personListVln = [{
+  name: 'Дмитрий Аверин',
+  link: './images/Дмитрий Аверин.jpg',
+},
+  {
+    name: 'Ирена Алейник',
+    link: './images/Ирена Алейник.jpg',
+  },
+  {
+    name: 'Никита Бабаев',
+    link: './images/Никита Бабаев.jpg',
+  },
+  {
+    name: 'Николай Баканов',
+    link: './images/Николя Баканов.jpg',
+  },
+  {
+    name: 'Вика Казакова',
+    link: './images/Вика Казакова.jpg',
+  },
+  {
+    name: 'Анна Карпова',
+    link: './images/Анна Карпова.jpg',
+  },
+  {
+    name: 'Константин Костин',
+    link: './images/Константин Костин.jpg',
+  },
+  {
+    name: 'Ольга Кузнецова',
+    link: './images/Ольга Кузнецова.jpg',
+  },
+  {
+    name: 'Михаил Лакшин',
+    link: './images/Михаил Лакшин.jpg',
+  },
+  {
+    name: 'Дарья Науменко',
+    link: './images/Дарья Науменко.jpg',
+  },
+  {
+    name: 'Татьяна Раевская',
+    link: './images/Татьяна Раевская.jpg',
+  },
+  {
+    name: 'Жанна Русина',
+    link: './images/Жанна Русина.jpg',
+  },
+  {
+    name: 'Василий Семёнов',
+    link: './images/Василий Семёнов.jpg',
+  },
+  {
+    name: 'Оксана  Семёнова',
+    link: './images/Оксана  Семёнова.jpg',
+  },
+  {
+    name: 'Катерина Тамм',
+    link: './images/Катерина Тамм.jpg',
+  },
+  {
+    name: 'Татьяна Чижова',
+    link: './images/Татьяна Чижова.jpg',
+  },
+  {
+    name: 'Юрий Волков',
+    link: './images/Юрий Волков.jpg',
+  },
+  {
+    name: 'Андрей Макаров',
+    link: './images/Андрей Макаров.jpg',
+  },
+  {
+    name: 'Инга Мацюшевская',
+    link: './images/Инга Мацюшевская.jpg',
+  },
+  {
+    name: 'Мария Усевич',
+    link: './images/Мария Усевич.jpg',
+  }
+]
+
+const personListFtg = [{
+  name: 'Александра Денисова',
+  link: './images/Александра Денисова.jpg',
+  town: 'Санкт-Петербург'
+},
+  {
+    name: 'Анна Казакова',
+    link: './images/Анна Казакова.jpg',
+    town: 'Екатеринбург'
+  },
+  {
+    name: 'Денис Шириков',
+    link: './images/Денис Шириков.jpg',
+    town: 'Москва'
   }
 ]
 
@@ -727,16 +717,8 @@ const allData = [{
     list: '.list_by',
   },
   {
-    personList: personListBg,
-    list: '.list_bg',
-  },
-  {
     personList: personListVl,
     list: '.list_vl',
-  },
-  {
-    personList: personListVm,
-    list: '.list_vm',
   },
   {
     personList: personListVr,
@@ -747,20 +729,12 @@ const allData = [{
     list: '.list_ek',
   },
   {
-    personList: personListIj,
-    list: '.list_ij',
-  },
-  {
     personList: personListIr,
     list: '.list_ir',
   },
   {
     personList: personListKz,
     list: '.list_kz',
-  },
-  {
-    personList: personListKg,
-    list: '.list_kg',
   },
   {
     personList: personListKr,
@@ -817,6 +791,18 @@ const allData = [{
   {
     personList: personListSp,
     list: '.list_sp',
+  },
+  {
+    personList: personListOrg,
+    list: '.list_org',
+  },
+  {
+    personList: personListVln,
+    list: '.list_vln',
+  },
+  {
+    personList: personListFtg,
+    list: '.list_ftg',
   }
 ]
 
