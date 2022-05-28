@@ -15,7 +15,7 @@ const personListDJ = [{
   },
   {
     name: 'Ольга Агапова',
-    link: './images/Ольга Агапова.jpg',
+    link: './images/Ольга Агапова.JPG',
     town: 'Санкт-Петербург'
   },
   {
