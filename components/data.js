@@ -5,7 +5,7 @@ const personListDJ = [{
 },
   {
     name: 'Алексей Соколовский',
-    link: './images/Алексей соколовский.JPG',
+    link: './images/Алексей Соколовский.JPG',
     town: 'Dusseldorf'
   },
   {
@@ -455,7 +455,7 @@ const personListSp = [{
   },
   {
     name: 'Нина Зубова',
-    link: './images/Нина Зубова.jpg',
+    link: './images/Нина Зубова.JPG',
   },
   {
     name: 'Светлана Зинченко',
