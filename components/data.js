@@ -1,11 +1,11 @@
 const personListDJ = [{
   name: 'Ольга Телешева',
-  link: './images/Ольга Телешева.jpg',
+  link: './images/Ольга Телешева.JPG',
   town: 'Москва'
 },
   {
     name: 'Алексей Соколовский',
-    link: './images/Алексей соколовский.jpg',
+    link: './images/Алексей соколовский.JPG',
     town: 'Dusseldorf'
   },
   {
@@ -25,12 +25,12 @@ const personListDJ = [{
   },
   {
     name: 'Дмитрий Баклашов',
-    link: './images/Дмитрий Баклашов.jpg',
+    link: './images/Дмитрий Баклашов.JPG',
     town: 'Воронеж'
   },
   {
     name: 'Анатолий Шипилов',
-    link: './images/Анатолий Шипилов.jpg',
+    link: './images/Анатолий Шипилов.JPG',
     town: 'Ростов-на-Дону'
   }
 ]
@@ -49,7 +49,7 @@ const personListIt = [{
 
 const personListSr = [{
   name: 'Filip Erčić',
-  link: './images/Filip Ercic.jpg',
+  link: './images/Filip Ercic.JPG',
   town: 'Beograde'
 }
 ]
@@ -199,7 +199,7 @@ const personListMo = [{
   },
   {
     name: 'Александр Матросов',
-    link: './images/Александр Матросов.jpg',
+    link: './images/Александр Матросов.JPG',
   },
   {
     name: 'Марина Матросова',
@@ -227,7 +227,7 @@ const personListMo = [{
   },
   {
     name: 'Марина Румянцева',
-    link: './images/Марина Румянцева.jpg',
+    link: './images/Марина Румянцева.JPG',
   },
   {
     name: 'Александр Сергеев',
@@ -395,7 +395,7 @@ const personListSp = [{
 },
   {
     name: 'Алена Абузова',
-    link: './images/Алена Абузова.jpg',
+    link: './images/Алена Абузова.JPG',
   },
   {
     name: 'Инна Апрельская',
@@ -615,7 +615,7 @@ const personListVln = [{
   },
   {
     name: 'Анна Карпова',
-    link: './images/Анна Карпова.jpg',
+    link: './images/Анна Карпова.JPG',
   },
   {
     name: 'Константин Костин',
@@ -677,17 +677,17 @@ const personListVln = [{
 
 const personListFtg = [{
   name: 'Александра Денисова',
-  link: './images/Александра Денисова.jpg',
+  link: './images/Александра Денисова.JPG',
   town: 'Санкт-Петербург'
 },
   {
     name: 'Анна Казакова',
-    link: './images/Анна Казакова.jpg',
+    link: './images/Анна Казакова.JPG',
     town: 'Екатеринбург'
   },
   {
     name: 'Денис Шириков',
-    link: './images/Денис Шириков.jpg',
+    link: './images/Денис Шириков.JPG',
     town: 'Москва'
   }
 ]
