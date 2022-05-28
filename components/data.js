@@ -591,10 +591,6 @@ const personListOrg = [{
     name: 'Ольга Богданова',
     link: './images/Ольга Богданова.jpg',
   },
-  {
-    name: 'Ксения Готвянская',
-    link: './images/Ксения Готвянская.jpg',
-  }
 ]
 
 const personListVln = [{
