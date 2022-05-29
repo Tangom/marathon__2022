@@ -234,6 +234,10 @@ const personListMo = [{
     link: './images/Александр Сергеев.jpg',
   },
   {
+    name: 'Елена Фунтикова',
+    link: './images/Елена Фунтикова.jpg',
+  },
+  {
     name: 'Татьяна Ширикова',
     link: './images/Татьяна Ширикова.jpg',
   },
@@ -438,6 +442,10 @@ const personListSp = [{
     link: './images/Ольга Григорьева.jpg',
   },
   {
+    name: 'Ольга Димитрова',
+    link: './images/Ольга Димитрова.jpg',
+  },
+  {
     name: 'Владимир Дунаев',
     link: './images/Владимир Дунаев.jpg',
   },
@@ -466,8 +474,8 @@ const personListSp = [{
     link: './images/Игорь Иванов.jpg',
   },
   {
-    name: 'Марина Хромова',
-    link: './images/Марина Хромова.jpg',
+    name: 'Екатерина Квасова',
+    link: './images/Екатерина Квасова.jpg',
   },
   {
     name: 'Кирилл Красиков',
@@ -532,6 +540,10 @@ const personListSp = [{
   {
     name: 'Людмила Ушакова',
     link: './images/Людмила Ушакова.jpg',
+  },
+  {
+    name: 'Марина Хромова',
+    link: './images/Марина Хромова.jpg',
   },
   {
     name: 'Аля Цой',
