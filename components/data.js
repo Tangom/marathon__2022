@@ -57,19 +57,19 @@ const personListSr = [{
 const personListLaLi = [{
   name: 'Марина Зинович',
   link: './images/Марина Зинович.jpg',
-  town: 'Вильнюс'
+  town: 'Vilnius'
 }
 ]
 
 const personListBy = [{
   name: 'Олег Полушкин',
   link: './images/Олег Полушкин.jpg',
-  town: 'Минск'
+  town: 'Minsk'
 },
   {
     name: 'Ирина Ястребкова',
     link: './images/Ирина Ястребкова.jpg',
-    town: 'Минск'
+    town: 'Minsk'
   }
 ]
 
