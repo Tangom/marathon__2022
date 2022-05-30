@@ -1,17 +1,17 @@
 const personListDJ = [{
-  name: 'Ольга Телешева',
-  link: './images/Ольга Телешева.JPG',
-  town: 'Москва'
+  name: 'Анатолий Шипилов',
+  link: './images/Анатолий Шипилов.JPG',
+  town: 'Ростов-на-Дону'
 },
-  {
-    name: 'Алексей Соколовский',
-    link: './images/Алексей Соколовский.JPG',
-    town: 'Dusseldorf'
-  },
   {
     name: 'Daniel Tuero',
     link: './images/Daniel Tuero.jpg',
     town: 'Buenos Aires/Москва'
+  },
+  {
+    name: 'Ольга Телешева',
+    link: './images/Ольга Телешева.JPG',
+    town: 'Москва'
   },
   {
     name: 'Ольга Агапова',
@@ -19,19 +19,19 @@ const personListDJ = [{
     town: 'Санкт-Петербург'
   },
   {
-    name: 'Екатерина Семёнова',
-    link: './images/Екатерина Семёнова.jpg',
-    town: 'Казань'
-  },
-  {
     name: 'Дмитрий Баклашов',
     link: './images/Дмитрий Баклашов.JPG',
     town: 'Воронеж'
   },
   {
-    name: 'Анатолий Шипилов',
-    link: './images/Анатолий Шипилов.JPG',
-    town: 'Ростов-на-Дону'
+    name: 'Екатерина Семёнова',
+    link: './images/Екатерина Семёнова.jpg',
+    town: 'Казань'
+  },
+  {
+    name: 'Алексей Соколовский',
+    link: './images/Алексей Соколовский.JPG',
+    town: 'Dusseldorf'
   }
 ]
 
@@ -480,6 +480,14 @@ const personListSp = [{
   {
     name: 'Кирилл Красиков',
     link: './images/Кирилл Красиков.jpg',
+  },
+  {
+    name: 'Роман Лебедев',
+    link: './images/Роман Лебедев.jpg',
+  },
+  {
+    name: 'Анна Лебедева',
+    link: './images/Анна Лебедева.jpg',
   },
   {
     name: 'Андрей Маноменов',
