@@ -65,12 +65,7 @@ const personListBy = [{
   name: 'Олег Полушкин',
   link: './images/Олег Полушкин.jpg',
   town: 'Minsk'
-},
-  {
-    name: 'Ирина Ястребкова',
-    link: './images/Ирина Ястребкова.jpg',
-    town: 'Minsk'
-  }
+}
 ]
 
 const personListVl = [{
@@ -119,6 +114,12 @@ const personListEk = [{
   }
 ]
 
+const personListIz = [{
+  name: 'Наталия Пак',
+  link: './images/Наталия Пак.jpg',
+}
+]
+
 const personListIr = [{
   name: 'Елена Родичева',
   link: './images/Елена Родичева.jpg',
@@ -132,7 +133,11 @@ const personListIr = [{
 const personListKz = [{
   name: 'Валерий Ильин',
   link: './images/Валерий Ильин.jpg',
-}
+},
+  {
+    name: 'Айсылу Зигангареева',
+    link: './images/Айсылу Зигангареева.jpg',
+  }
 ]
 
 const personListKr = [{
@@ -258,6 +263,10 @@ const personListMu = [{
   {
     name: 'Марина Логунова',
     link: './images/Марина Логунова.jpg',
+  },
+  {
+    name: 'Ринат Саляев',
+    link: './images/Ринат Саляев.jpg',
   }
 ]
 
@@ -368,7 +377,11 @@ const personListTv = [{
 const personListTo = [{
   name: 'Ольга Мезенцева',
   link: './images/Ольга Мезенцева.jpg',
-}
+},
+  {
+    name: 'Андрей Сурашенко',
+    link: './images/Андрей Сурашенко.jpg',
+  }
 ]
 
 const personListTm = [{
@@ -560,6 +573,10 @@ const personListSp = [{
   {
     name: 'Александр Цой',
     link: './images/Александр Цой.jpg',
+  },
+  {
+    name: 'Мила Шаталова',
+    link: './images/Мила Шаталова.jpg',
   }
 ]
 
@@ -646,8 +663,8 @@ const personListVln = [{
     link: './images/Ольга Кузнецова.jpg',
   },
   {
-    name: 'Михаил Лакшин',
-    link: './images/Михаил Лакшин.jpg',
+    name: 'Михаил Лашкин',
+    link: './images/Михаил Лашкин.jpg',
   },
   {
     name: 'Дарья Науменко',
@@ -716,6 +733,10 @@ const allData = [{
   personList: personListDJ,
   list: '.list_dj',
 },
+  {
+    personList: personListIz,
+    list: '.list_iz',
+  },
   {
     personList: personListIt,
     list: '.list_it',
