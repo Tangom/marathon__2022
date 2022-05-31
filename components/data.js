@@ -543,6 +543,10 @@ const personListSp = [{
     link: './images/Ирина Пастухова.jpg',
   },
   {
+    name: 'Александра Писаренко',
+    link: './images/Александра Писаренко.jpg',
+  },
+  {
     name: 'Денис Подгорный',
     link: './images/Денис Подгорный.jpg',
   },
