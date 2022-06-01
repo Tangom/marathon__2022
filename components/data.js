@@ -349,6 +349,10 @@ const personListRz = [{
     link: './images/Арина Ежова.jpg',
   },
   {
+    name: 'Татьяна Конных',
+    link: './images/Татьяна Конных.jpg',
+  },
+  {
     name: 'Владимир Муравьёв',
     link: './images/Татьяна Муравьёва.jpg',
   },
